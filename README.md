@@ -1,2 +1,2 @@
 # gcp-fask
-Demo for Continous Integration (CI) with Google cloud and Flask
+Demo for Continous Delivery (CD) with Google cloud and Flask
